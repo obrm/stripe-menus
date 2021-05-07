@@ -446,3 +446,9 @@ Stripe Styles
   color: var(--clr-grey-5);
   margin-right: 1rem;
 }
+
+@media (max-width: 800px) {
+  .reference {
+    display: none;
+  }
+}
