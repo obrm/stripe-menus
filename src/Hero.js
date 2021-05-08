@@ -20,7 +20,7 @@ const Hero = () => {
           <p className='reference'>
             Check out the original{' '}
             <a href='https://stripe.com/' target='_blank' rel='noreferrer'>
-              Stripe's site
+              Stripe site
             </a>{' '}
             to see the idea for the cool Navbar
           </p>
