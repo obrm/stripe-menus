@@ -9,11 +9,12 @@ const Hero = () => {
     <section className='hero' onMouseOver={closeSubMenu}>
       <div className='hero-center'>
         <article className='hero-info'>
-          <h1>Payments infrastructure for the internet</h1>
+          <h1>Stripe styled menus with the cool hover effect</h1>
           <p>
-            Millions of companies of all sizes—from startups to Fortune 500s—use
-            Stripe’s software and APIs to accept payments, send payouts, and
-            manage their businesses online.
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Praesentium atque temporibus officiis, nulla necessitatibus aperiam,
+            totam adipisci aspernatur, excepturi rerum quidem incidunt beatae
+            placeat magnam.
           </p>
           <button className='btn'>Start now</button>
           <p className='reference'>
