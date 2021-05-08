@@ -9,7 +9,7 @@ const Hero = () => {
     <section className='hero' onMouseOver={closeSubMenu}>
       <div className='hero-center'>
         <article className='hero-info'>
-          <h1>Stripe styled nav menus with the cool hover effect</h1>
+          <h1>Stripe styled navbar menus with the cool hover effect</h1>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit.
             Praesentium atque temporibus officiis, nulla necessitatibus aperiam,
