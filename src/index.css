@@ -452,3 +452,9 @@ Stripe Styles
     display: none;
   }
 }
+
+@media (max-width: 800px) {
+  .hero-info h1 {
+    font-size: 2.5rem;
+  }
+}
